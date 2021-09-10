@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chand kumar</h1>
-<h3 align="center">DATA MAKES ME HAPPY.</h3>
+<h3 align="center">DATA MAKES ME SMILE.</h3>
 
 - 🔭 I’m currently working on **Web Digger:automate web scraping**
 
